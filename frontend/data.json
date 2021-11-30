@@ -1,0 +1,20 @@
+{
+    "states": [
+        {
+            "name": "Maharashtra",
+            "cities": [
+                "Pune",
+                "Mumbai",
+                "Jalgaon"
+            ]
+        },
+        {
+            "name": "AndhraPradesh",
+            "cities": [
+                "Vijaywada",
+                "Hydrabad",
+                "Kochi"
+            ]
+        }
+    ]
+}
